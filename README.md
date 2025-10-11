@@ -21,7 +21,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
 <details>
   <summary><strong>Important HTML Topics</strong></summary>
   
-  - HTML 5 features
+  - HTML 5 features (link - https://www.geeksforgeeks.org/html/html5-introduction/)
   - HTML Document Structure
   - Forms (Input types, attributes, validations)
   - Semantic tags and uses
