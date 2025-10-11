@@ -37,10 +37,10 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
       - [HTML MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
       - [W3 Schools](https://www.w3schools.com/html/)
       - [HTML Web.Dev](https://web.dev/learn/html/)
-      - [HTML Best Practises](https://github.com/hail2u/html-best-practices)
-      - [HTML Best Practises II](https://www.freecodecamp.org/news/html-best-practices/)
-      - [Increasing SEO using HTML tags](https://javascript.plainenglish.io/top-10-html-tags-you-need-to-know-for-better-seo-with-code-39add1e7ba6d)
-      - [Semantic Tags and How to use them correctly?](https://www.semrush.com/blog/semantic-html5-guide/)
+      - [HTML Best Practises](https://github.com/hail2u/html-best-practices) - Consider
+      - [HTML Best Practises II](https://www.freecodecamp.org/news/html-best-practices/) - Consider
+      - [Increasing SEO using HTML tags](https://javascript.plainenglish.io/top-10-html-tags-you-need-to-know-for-better-seo-with-code-39add1e7ba6d) - Consider
+      - [Semantic Tags and How to use them correctly?](https://www.semrush.com/blog/semantic-html5-guide/) - Consider
 
       <br>
 
