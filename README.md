@@ -66,6 +66,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Animations and Transitions
   - z-index
   - Accessibility
+  - CSS Interview Questions Link - https://devinterview.io/questions/web-and-mobile-development/css-interview-questions/
 
     <details>
       <summary><strong>Useful Resources</strong></summary>
