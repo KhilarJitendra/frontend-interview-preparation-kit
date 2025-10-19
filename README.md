@@ -29,6 +29,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Media tags : image, audio, video
   - SEO using HTML tags
   - IFrames
+  - Interview Questions (100) - (link - https://devinterview.io/questions/web-and-mobile-development/html5-interview-questions/)
 
     <details>
       <summary><strong>Useful Resources</strong></summary>
