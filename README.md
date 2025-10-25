@@ -58,7 +58,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Cascading
   - Specificity
   - Flex
-  - Grid
+  - Grid (Link - https://www.youtube.com/watch?v=7AgEjgUtho4)
   - Selectors
   - Pseudo-class Vs Pseudo-elements
   - Measurement Units (Absolute Vs Relative units, Which one to prefer?)
