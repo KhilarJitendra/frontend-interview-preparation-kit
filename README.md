@@ -220,7 +220,7 @@ Adding below a list of small applications that you can practise:
 Don't forget to keep practising questions everyday, as it will not only make your concepts more clear but would also give confidence to solve tougher questions.
 
 <details>
- <summary><strong>Web Vitals</strong></summary>
+ <summary><strong>Web Vitals LINK - (https://github.com/KhilarJitendra/web-vitals) </strong></summary>
  
   <details>
    <summary><strong>Core Web Vitals</strong></summary>
