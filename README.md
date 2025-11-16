@@ -244,7 +244,7 @@ Don't forget to keep practising questions everyday, as it will not only make you
  <summary><strong>Web Performance and Optimisations</strong></summary>
   
   - [Core Web Vitals](https://web.dev/fast/#core-web-vitals)
-  - [Optimising Images](https://web.dev/fast/#optimize-your-images)
+  - [Optimising Images](https://web.dev/fast/#optimize-your-images) - Link - https://medium.com/@jitendrakhilar609/how-modern-websites-deliver-the-right-image-automatically-using-akamai-aem-c81123337995
   - [Optimising Videos](https://web.dev/fast/#lazy-load-images-and-video)
   - [Optimising Javascript files](https://web.dev/fast/#optimize-your-javascript)
   - [Optimising resource delivery](https://web.dev/fast/#optimize-your-resource-delivery)
