@@ -409,12 +409,12 @@ Listing some best resources for studying System Design in Frontend, go on and bi
 Brush up your react by reading React docs and making some small apps in react.
 
  Study all the hooks from [React docs](https://react.dev/reference/react):
-  - useState() [Link] (https://github.com/KhilarJitendra/react-hooks)
+  - useState() [Link] (https://github.com/KhilarJitendra/react-hooks):
   - useEffect()
   - useCallback()
   - useMemo()
   - useRef()
-  - useReducer()
+  - useReducer() from [Link](https://medium.com/@jitendrakhilar609/a-layman-friendly-medium-blog-on-usereducer-16ac371c17cb?postPublishedType=initial):
   - useContext()
   - useId()
   - useLayoutEffect()
