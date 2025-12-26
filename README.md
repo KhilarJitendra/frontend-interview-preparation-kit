@@ -86,10 +86,10 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
 <details>
    <summary><strong>Important Javascript Topics</strong></summary>
 
-   - Working of JS
-     - Execution Context
+   - Working of JS - https://bigfrontend.dev/css](https://www.youtube.com/watch?v=ZvbzSrg0afE
+     - Execution Context 
      - Callstack
-   - Data types ( Especially Arrays, Objects, Strings)
+   - Data types ( Especially Arrays, Objects, Strings) - https://medium.com/@jitendrakhilar609/javascript-data-types-explained-a-deep-dive-b2c8b597cb4d
    - Array and Object methods
    - let/var/const
    - Hoisting, Temporal Dead Zone
