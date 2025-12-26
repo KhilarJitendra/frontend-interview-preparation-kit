@@ -90,7 +90,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
      - Execution Context 
      - Callstack
    - Data types ( Especially Arrays, Objects, Strings) - https://medium.com/@jitendrakhilar609/javascript-data-types-explained-a-deep-dive-b2c8b597cb4d
-   - Array and Object methods
+   - Array and Object methods - https://github.com/KhilarJitendra/javascript-extra/blob/main/method.md
    - let/var/const
    - Hoisting, Temporal Dead Zone
    - Illegal shadowing
