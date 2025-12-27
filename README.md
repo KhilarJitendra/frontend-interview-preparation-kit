@@ -93,7 +93,8 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
    - Array and Object methods - https://github.com/KhilarJitendra/javascript-extra/blob/main/method.md
    - let/var/const - https://www.youtube.com/watch?v=lW_erSjyMeM&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=10
    - let/var/const QSTNS - https://github.com/KhilarJitendra/javascript-extra/blob/main/scope.md
-   - Hoisting, Temporal Dead Zone
+   - Hoisting - https://www.youtube.com/watch?v=Fnlnw8uY6jo&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=4
+   - Temporal Dead Zone - https://github.com/KhilarJitendra/javascript-extra/blob/main/tdz.md
    - Illegal shadowing
    - Scope, Scope chaining
    - Mutable/Immutable data types
