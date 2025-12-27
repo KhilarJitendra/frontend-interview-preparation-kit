@@ -98,7 +98,8 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
    - Illegal shadowing
    - Scope, Scope chaining
    - Mutable/Immutable data types
-   - Shallow and Deep copy
+   - Shallow - https://github.com/KhilarJitendra/javascript-extra/blob/main/shallow.md
+   - Deep copy - https://github.com/KhilarJitendra/javascript-extra/blob/main/deep.md
    - DOM (DOM methods) and BOM
    - Critical Rendering Path
    - Functions 
