@@ -92,6 +92,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
    - Data types ( Especially Arrays, Objects, Strings) - https://medium.com/@jitendrakhilar609/javascript-data-types-explained-a-deep-dive-b2c8b597cb4d
    - Array and Object methods - https://github.com/KhilarJitendra/javascript-extra/blob/main/method.md
    - let/var/const - https://www.youtube.com/watch?v=lW_erSjyMeM&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=10
+   - let/var/const QSTNS - https://github.com/KhilarJitendra/javascript-extra/blob/main/scope.md
    - Hoisting, Temporal Dead Zone
    - Illegal shadowing
    - Scope, Scope chaining
