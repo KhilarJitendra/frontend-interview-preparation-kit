@@ -112,7 +112,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Arrow function and `this` - https://www.youtube.com/watch?v=9T4z98JcHR0
   - Call, Apply, Bind - https://www.youtube.com/watch?v=75W8UPQ5l7k
   - Closure and it's uses - https://www.youtube.com/watch?v=qikxEIxsXco
-  - Callbacks, Callback Hell
+  - Callbacks, Callback Hell - https://www.youtube.com/watch?v=yEKtJGha3yM
   - Promises, promise chaining
   - Async/Await
   - [Callbacks vs promises vs asyc/await](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
