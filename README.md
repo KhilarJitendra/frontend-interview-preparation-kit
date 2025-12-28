@@ -111,7 +111,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - this keyword - https://www.youtube.com/watch?v=9T4z98JcHR0
   - Arrow function and `this` - https://www.youtube.com/watch?v=9T4z98JcHR0
   - Call, Apply, Bind - https://www.youtube.com/watch?v=75W8UPQ5l7k
-  - Closure and it's uses
+  - Closure and it's uses - https://www.youtube.com/watch?v=qikxEIxsXco
   - Callbacks, Callback Hell
   - Promises, promise chaining
   - Async/Await
