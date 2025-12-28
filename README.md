@@ -114,7 +114,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Closure and it's uses - https://www.youtube.com/watch?v=qikxEIxsXco
   - Callbacks, Callback Hell - https://www.youtube.com/watch?v=yEKtJGha3yM
   - Promises, promise chaining - https://github.com/KhilarJitendra/javascript-extra/blob/main/promise.md
-  - Promise API
+  - Promise API - https://www.youtube.com/watch?v=DlTVt1rZjIo&t
   - Async/Await
   - [Callbacks vs promises vs asyc/await](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
   - [Currying](https://javascript.plainenglish.io/javascript-currying-comprehensive-guide-e69c47497309)
