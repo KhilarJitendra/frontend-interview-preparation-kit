@@ -100,7 +100,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
    - Mutable/Immutable data types
    - Shallow - https://github.com/KhilarJitendra/javascript-extra/blob/main/shallow.md
    - Deep copy - https://github.com/KhilarJitendra/javascript-extra/blob/main/deep.md
-   - DOM (DOM methods) and BOM
+   - DOM (DOM methods) and BOM - https://github.com/KhilarJitendra/javascript-extra/blob/main/dom-bom.md
    - Critical Rendering Path
    - Functions 
       - Function Declaration
