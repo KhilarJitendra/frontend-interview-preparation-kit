@@ -108,8 +108,8 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
       - Functional Programming
       - Arrow Functions
       - IIFE
-  - [`this` keyword](https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c)
-  - [Arrow function and `this` keyword](https://dev.to/bhagatparwinder/arrow-functions-this-keyword-350j)
+  - this keyword - https://www.youtube.com/watch?v=9T4z98JcHR0
+  - Arrow function and `this` - https://www.youtube.com/watch?v=9T4z98JcHR0
   - Call, Apply, Bind
   - Closure and it's uses
   - Callbacks, Callback Hell
