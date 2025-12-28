@@ -102,7 +102,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
    - Deep copy - https://github.com/KhilarJitendra/javascript-extra/blob/main/deep.md
    - DOM (DOM methods) and BOM - https://github.com/KhilarJitendra/javascript-extra/blob/main/dom-bom.md
    - Critical Rendering Path - https://github.com/KhilarJitendra/javascript-extra/blob/main/critical-rendering-path.md
-   - Functions 
+   - Functions - https://www.youtube.com/watch?v=SHINoHxvTso&t=120s
       - Function Declaration
       - Function Expression
       - Functional Programming
