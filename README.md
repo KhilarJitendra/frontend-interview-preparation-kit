@@ -116,7 +116,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Promises, promise chaining - https://github.com/KhilarJitendra/javascript-extra/blob/main/promise.md
   - Promise API - https://www.youtube.com/watch?v=DlTVt1rZjIo&t
   - Async/Await - https://www.youtube.com/watch?v=6nv3qy3oNkc
-  - [Currying](https://javascript.plainenglish.io/javascript-currying-comprehensive-guide-e69c47497309)
+  - Currying - https://github.com/KhilarJitendra/javascript-extra/blob/main/currying.md
   - Debouncing and Throttling
   - Event Propagation
     - Bubbling
