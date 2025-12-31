@@ -121,9 +121,9 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Throttling - https://github.com/KhilarJitendra/javascript-extra/blob/main/throttle.md
   - JS IMP Events - https://github.com/KhilarJitendra/javascript-extra/blob/main/js-events.md
   - Event Propagation
-    - Bubbling
-    - Capturing
-    - Event Delegation
+    - Bubbling - https://www.youtube.com/watch?v=aVSf0b1jVKk
+    - Capturing - https://www.youtube.com/watch?v=aVSf0b1jVKk
+    - Event Delegation - https://www.youtube.com/watch?v=3KJI1WZGDrg
   - Prototype and Prototypal Inheritance 
   - Memoisation  
   - Generator Functions  
