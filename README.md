@@ -125,7 +125,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
     - Capturing - https://www.youtube.com/watch?v=aVSf0b1jVKk
     - Event Delegation - https://www.youtube.com/watch?v=3KJI1WZGDrg
   - Prototype and Prototypal Inheritance - https://www.youtube.com/watch?v=wstwjQ1yqWQ
-  - Memoisation  
+  - Memoisation - https://github.com/KhilarJitendra/javascript-extra/blob/main/memoization.md
   - Generator Functions  
   - Event Loop , Mictrotasks, Macrotasks
   - [Events: DOMContentLoaded, load, beforeunload, unload](https://tilomitra.com/html-page-lifecycle-events/)
