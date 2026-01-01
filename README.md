@@ -132,7 +132,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - async/defer - https://www.youtube.com/watch?v=IrHmpdORLu8
   - [Polyfills](https://github.com/ghoshsuman845/js-polyfills) and LINK (https://www.youtube.com/watch?v=kZsG02sO5dw) (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
   - Web APIs
-  - setTimout, setInterval
+  - setTimout, setInterval - https://www.youtube.com/watch?v=eBTBG4nda2A
   - High Order Functions
   - [Working of JS Engine](https://youtu.be/xckH5s3UuX4?si=0S3VazCatZBlDfgv)
 
