@@ -129,7 +129,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
   - Generator Functions - https://www.youtube.com/watch?v=xC6-kXz8D8I
   - Event Loop , Mictrotasks, Macrotasks - https://www.youtube.com/watch?v=8zKuNo4ay8E
   - [Events: DOMContentLoaded, load, beforeunload, unload](https://tilomitra.com/html-page-lifecycle-events/)
-  - async/defer
+  - async/defer - https://www.youtube.com/watch?v=IrHmpdORLu8
   - [Polyfills](https://github.com/ghoshsuman845/js-polyfills) and LINK (https://www.youtube.com/watch?v=kZsG02sO5dw) (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
   - Web APIs
   - setTimout, setInterval
